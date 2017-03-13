@@ -60,3 +60,11 @@ https://github.com/tpope/vim-pathogen
 
 ##### For Atom user:
 - Instal https://atom.io/packages/python-indent
+
+References:
+- https://www.python.org/dev/peps/pep-0008
+- https://github.com/aniketgawade/PythonCodingGuideline/blob/master/README.md
+- http://docs.python-guide.org/en/latest/writing/style
+- https://google.github.io/styleguide/pyguide.html
+
+
